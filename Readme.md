@@ -19,8 +19,11 @@ and color schemes indicative of advertisements.
 - Implement strategies to minimize false positives by considering contextual information and additional cues in the 
 images.
 - Enhance the model's accuracy in distinguishing between promotional content and non-promotional visual elements
+- 
 
-### Sorry For Not uploading the build model. Due to the Large Size, it is not possible to upload in Github.
+# Sorry For Not uploading the build model. Due to the Large Size, it is not possible to upload in Github.
+
+
 
 # Process of the Assignment (Ad_Creatives_Detection.ipynb)
 ### 1. Collection of Dataset - Two different dataset that are defined as Ad_Creative and None_Ad_Creative.
