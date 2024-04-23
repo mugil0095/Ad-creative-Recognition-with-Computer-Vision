@@ -21,3 +21,6 @@ images.
 - Enhance the model's accuracy in distinguishing between promotional content and non-promotional visual elements
 
 Sorry For Not uploading the build model. Due to the Large Size, it is not possible to upload in Github.
+
+# Process of the Assignment
+
