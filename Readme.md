@@ -19,3 +19,5 @@ and color schemes indicative of advertisements.
 - Implement strategies to minimize false positives by considering contextual information and additional cues in the 
 images.
 - Enhance the model's accuracy in distinguishing between promotional content and non-promotional visual elements
+
+Sorry For Not uploading the build model. Due to Large in size it is not possible to upload in Github.
